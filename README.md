@@ -16,7 +16,7 @@ Airplay Client                          Airplay Server<br />
   |                                       |<br />
 6 | <--------------SET_PARAMMETER------>  |<br />
   |                                       |<br />
-7 | <--------------POST /feedback------>  |  (every 2 seconds 1 time)<br />
+7 | <--------------POST /feedback------>  |  (every 2 seconds)<br />
 <br />
  <br />
  streaming data to port 7100<br />
